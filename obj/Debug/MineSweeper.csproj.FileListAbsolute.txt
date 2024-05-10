@@ -1,0 +1,7 @@
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\MineSweeper\bin\Debug\MineSweeper.exe.config
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\MineSweeper\bin\Debug\MineSweeper.exe
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\MineSweeper\bin\Debug\MineSweeper.pdb
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\MineSweeper\obj\Debug\MineSweeper.exe
+D:\visual studio\BaiTapCodeGym\BaiTapCodeGym\MineSweeper\obj\Debug\MineSweeper.pdb
